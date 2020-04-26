@@ -21,4 +21,3 @@ parameters -- source code.
 ## `estimated_parameters_aminer_dblp_v10.csv.gz`
 
 A data frame with the estimated parameters (N, C, rho for each author).
-
