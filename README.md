@@ -1,8 +1,13 @@
 # Three Dimensions of Scientific Impact — Data and Code
 
-by Grzegorz Siudem, Barbara Żogała-Siudem, Anna Cena and Marek Gagolewski
+by [Grzegorz Siudem](http://if.pw.edu.pl/~siudem/), 
+[Barbara Żogała-Siudem](https://www.researchgate.net/profile/Barbara_Zogala-Siudem),
+[Anna Cena](http://cena.rexamine.com/), 
+and [Marek Gagolewski](https://www.gagolewski.com/)
 
-April 2020
+> *What are the mechanisms behind one’s research success as measured by one’s papers’ citability? By acknowledging the perceived esteem might be a consequence not only of how valuable one’s works are but also of pure luck, we arrived at a model that can accurately recreate a citation record based on just three parameters: the number of publications, the total number of citations, and the degree of randomness in the citation patterns. As a by-product, we show that a single index will never be able to embrace the complex reality of the scientific impact. However, three of them can already provide us with a reliable summary.*
+
+
 
 
 ## Citation
@@ -28,3 +33,5 @@ parameters -- source code.
 ## `estimated_parameters_aminer_dblp_v10.csv.gz`
 
 A data frame with the estimated parameters (N, C, rho for each author).
+
+Last updated: April 2020
