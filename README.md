@@ -1,4 +1,4 @@
-# Three Dimensions of Scientific Impact -- Data and Code
+# Three Dimensions of Scientific Impact — Data and Code
 
 by Grzegorz Siudem, Barbara Żogała-Siudem, Anna Cena and Marek Gagolewski
 
@@ -10,7 +10,7 @@ April 2020
 Siudem G., Żogała-Siudem B., Cena A., Gagolewski M.,
 Three dimensions of scientific impact, 
 *Proceedings of the National Academy of Sciences of the United States of America (PNAS)* **117**(25), 2020, pp. 13896-13900. 
-doi:10.1073/pnas.2001064117
+doi:[10.1073/pnas.2001064117](https://doi.org/10.1073/pnas.2001064117).
 
 ## `citation_sequences_aminer_dblp_v10.json.gz`
 
